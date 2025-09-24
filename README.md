@@ -1,5 +1,5 @@
 # praxn-linktree
-My first linktree looking profile.
+My first linktree looking profile project.
 
 ## Kind of Declaration?...ahaha
 The page is a modern and clean alternative to services like Linktree, giving you full control over the design and content. It is fully responsive and looks great on both mobile and desktop devices.
@@ -30,5 +30,8 @@ c) Customize the links to point to your own websites and social media profiles.
 ## IMPORTANT
 Host with GitHub Pages: Follow the GitHub Pages instructions to publish your site for free.
 After this, you can add this github repo to your any social media platform which allows url's.
+
+## About the copyright part->
+although I mentioned "all rights reserved" but everybody can use the "TEMPLATE"
 
 # ENJOY & THANK ME LATER.....HAHA
